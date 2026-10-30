@@ -14,4 +14,4 @@ No app icon or screenshots yet; the header is text-only until the icon is final.
 
 Published at https://mbj1124.github.io/rich-life-site/
 
-Support email: `richlifehabits.app@gmail.com`.
+Support email: `stayunder.app@gmail.com`.
